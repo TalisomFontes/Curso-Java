@@ -1,4 +1,4 @@
-import java.util.Locale; // para usar (.) em numeros flutuantes
+import java.util.Locale; 
 
 public class Main {
 
